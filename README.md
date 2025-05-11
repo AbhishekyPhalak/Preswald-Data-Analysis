@@ -33,7 +33,7 @@ A scatter plot is generated with:
 
 ### 📌 Temperature Scatter Plot
 (![image](https://github.com/user-attachments/assets/181aac39-e2c9-4c27-a7ef-bc07159ee98f)
-)
+
 
 ## 🌐 Live Demo
 
