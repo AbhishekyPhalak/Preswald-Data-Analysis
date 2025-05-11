@@ -25,6 +25,16 @@ A scatter plot is generated with:
 - **Plotly Express**: for interactive plotting
 - **Preswald**: for building data apps
 
+## 📷 Screenshots
+
+### 📌 Filtered Data Table
+![Filtered Data](![image](https://github.com/user-attachments/assets/d3417e98-3818-4b9e-a5c4-4ed2adc3405a)
+)
+
+### 📌 Temperature Scatter Plot
+![Temperature Plot](![image](https://github.com/user-attachments/assets/181aac39-e2c9-4c27-a7ef-bc07159ee98f)
+)
+
 ## 🌐 Live Demo
 
 You can view the live demo here: [Preswald Data Analysis App](https://p0834c6be.preswald.app/)
